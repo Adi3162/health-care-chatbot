@@ -1,2 +1,1 @@
-# health-care-chatbot
-Leaders in medicine hope these chatbots can help them respond to trends in medical care that were accelerated by the COVID-19 pandemic: more at-home care, spurred by the social distancing restrictions of the pandemic and by technological advances that enable people to carry out more complicated medical tasks without
+This project is a smart, AI-powered Healthcare Chatbot that utilizes OpenAI's ChatGPT API to provide conversational support for users seeking basic health-related guidance. The chatbot can interact with users in natural language, offering helpful responses to general health queries, symptom checks, wellness tips, and more—simulating the experience of speaking with a virtual health assistant.
